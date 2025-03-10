@@ -314,6 +314,7 @@ form #btnSearch:hover{
   display: flex;
   flex-wrap: wrap;
   column-gap: 30px;  /* crée un espace de 30 pixels entre les colonnes */
+  margin-bottom: 30px;
 }
 
 .hebergements-cards .card {
@@ -354,8 +355,6 @@ form #btnSearch:hover{
 .hebergements .displayMore{
   font-weight: 700;
   font-size: 18px;
-  margin:0px;
-  margin-top: 30px;
 }
 
 .hebergements a:hover {
@@ -467,6 +466,7 @@ footer{
 
 footer div{
   width: 30%;
+  margin-left: 20px;
 }
 
 footer ul {
